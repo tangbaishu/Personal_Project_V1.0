@@ -1,0 +1,28 @@
+--cpu Cortex-M3
+"version_v1\startup_stm32f103xe.o"
+"version_v1\main.o"
+"version_v1\stm32f1xx_it.o"
+"version_v1\stm32f1xx_hal_msp.o"
+"version_v1\stm32f1xx_hal_gpio_ex.o"
+"version_v1\stm32f1xx_hal_tim.o"
+"version_v1\stm32f1xx_hal_tim_ex.o"
+"version_v1\stm32f1xx_hal.o"
+"version_v1\stm32f1xx_hal_rcc.o"
+"version_v1\stm32f1xx_hal_rcc_ex.o"
+"version_v1\stm32f1xx_hal_gpio.o"
+"version_v1\stm32f1xx_hal_dma.o"
+"version_v1\stm32f1xx_hal_cortex.o"
+"version_v1\stm32f1xx_hal_pwr.o"
+"version_v1\stm32f1xx_hal_flash.o"
+"version_v1\stm32f1xx_hal_flash_ex.o"
+"version_v1\stm32f1xx_hal_exti.o"
+"version_v1\stm32f1xx_hal_uart.o"
+"version_v1\stm32f1xx_hal_usart.o"
+"version_v1\system_stm32f1xx.o"
+"version_v1\m_hal_gpio.o"
+"version_v1\m_hal_uart.o"
+"version_v1\m_hal_prj.o"
+--library_type=microlib --strict --scatter "Version_V1\Version_V1.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "Version_V1.map" -o Version_V1\Version_V1.axf

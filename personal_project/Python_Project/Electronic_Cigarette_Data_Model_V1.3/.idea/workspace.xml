@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="01f4e246-79d3-495c-aa48-82119e533159" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/../Electronic_Cigarette_Data_Model_V1.2/FGS_Data_Dispose.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Grammar_Practice/Qt/Exercise/exercise/.vscode/c_cpp_properties.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Grammar_Practice/Qt/Exercise/exercise/.vscode/c_cpp_properties.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library_V2.0/Self_Common.ld9" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library_V2.0/Self_Common.ld9" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library_V2.0/Self_Common.pd9" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library_V2.0/Self_Common.pd9" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library_V2.0/Self_Common.pt9" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library_V2.0/Self_Common.pt9" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Electronic_Cigarette_Data_Model_V1.2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Electronic_Cigarette_Data_Model_V1.2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Electronic_Cigarette_Data_Model_V1.2/DataBase.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Electronic_Cigarette_Data_Model_V1.2/DataBase.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Electronic_Cigarette_Data_Model_V1.2/Data_Dispose.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Electronic_Cigarette_Data_Model_V1.2/Data_Dispose.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Electronic_Cigarette_Data_Model_V1.2/Smoke_Data.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Electronic_Cigarette_Data_Model_V1.2/Smoke_Data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Electronic_Cigarette_Data_Model_V1.2/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Electronic_Cigarette_Data_Model_V1.2/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/Core/Src/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/Core/Src/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Prj/m_hal_prj.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Prj/m_hal_prj.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Prj/m_hal_prj.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Prj/m_hal_prj.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Prj/m_hal_uart.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Prj/m_hal_uart.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1.uvguix.WX" beforeDir="false" afterPath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1.uvguix.WX" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1.uvoptx" beforeDir="false" afterPath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1.uvoptx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1.uvprojx" beforeDir="false" afterPath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1.uvprojx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/Version_V1.axf" beforeDir="false" afterPath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/Version_V1.axf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/Version_V1.build_log.htm" beforeDir="false" afterPath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/Version_V1.build_log.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/Version_V1.hex" beforeDir="false" afterPath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/Version_V1.hex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/Version_V1.htm" beforeDir="false" afterPath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/Version_V1.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/Version_V1.lnp" beforeDir="false" afterPath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/Version_V1.lnp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/Version_V1.map" beforeDir="false" afterPath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/Version_V1.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/Version_V1_Version_V1.dep" beforeDir="false" afterPath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/Version_V1_Version_V1.dep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/m_hal_gpio.crf" beforeDir="false" afterPath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/m_hal_gpio.crf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/m_hal_gpio.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/m_hal_gpio.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/m_hal_prj.crf" beforeDir="false" afterPath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/m_hal_prj.crf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/m_hal_prj.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/m_hal_prj.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/m_hal_uart.crf" beforeDir="false" afterPath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/m_hal_uart.crf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/m_hal_uart.d" beforeDir="false" afterPath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/m_hal_uart.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/m_hal_uart.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/m_hal_uart.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/main.crf" beforeDir="false" afterPath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/main.crf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/main.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/main.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/startup_stm32f103xe.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/startup_stm32f103xe.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/stm32f1xx_hal.crf" beforeDir="false" afterPath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/stm32f1xx_hal.crf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/stm32f1xx_hal.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/stm32f1xx_hal.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/stm32f1xx_hal_cortex.crf" beforeDir="false" afterPath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/stm32f1xx_hal_cortex.crf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/stm32f1xx_hal_cortex.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/stm32f1xx_hal_cortex.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/stm32f1xx_hal_dma.crf" beforeDir="false" afterPath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/stm32f1xx_hal_dma.crf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/stm32f1xx_hal_dma.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/stm32f1xx_hal_dma.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/stm32f1xx_hal_exti.crf" beforeDir="false" afterPath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/stm32f1xx_hal_exti.crf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/stm32f1xx_hal_exti.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/stm32f1xx_hal_exti.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/stm32f1xx_hal_flash.crf" beforeDir="false" afterPath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/stm32f1xx_hal_flash.crf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/stm32f1xx_hal_flash.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/stm32f1xx_hal_flash.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/stm32f1xx_hal_flash_ex.crf" beforeDir="false" afterPath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/stm32f1xx_hal_flash_ex.crf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/stm32f1xx_hal_flash_ex.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/stm32f1xx_hal_flash_ex.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/stm32f1xx_hal_gpio.crf" beforeDir="false" afterPath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/stm32f1xx_hal_gpio.crf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/stm32f1xx_hal_gpio.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/stm32f1xx_hal_gpio.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/stm32f1xx_hal_gpio_ex.crf" beforeDir="false" afterPath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/stm32f1xx_hal_gpio_ex.crf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/stm32f1xx_hal_gpio_ex.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/stm32f1xx_hal_gpio_ex.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/stm32f1xx_hal_msp.crf" beforeDir="false" afterPath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/stm32f1xx_hal_msp.crf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/stm32f1xx_hal_msp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/stm32f1xx_hal_msp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/stm32f1xx_hal_pwr.crf" beforeDir="false" afterPath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/stm32f1xx_hal_pwr.crf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/stm32f1xx_hal_pwr.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/stm32f1xx_hal_pwr.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/stm32f1xx_hal_rcc.crf" beforeDir="false" afterPath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/stm32f1xx_hal_rcc.crf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/stm32f1xx_hal_rcc.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/stm32f1xx_hal_rcc.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/stm32f1xx_hal_rcc_ex.crf" beforeDir="false" afterPath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/stm32f1xx_hal_rcc_ex.crf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/stm32f1xx_hal_rcc_ex.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/stm32f1xx_hal_rcc_ex.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/stm32f1xx_hal_tim.crf" beforeDir="false" afterPath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/stm32f1xx_hal_tim.crf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/stm32f1xx_hal_tim.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/stm32f1xx_hal_tim.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/stm32f1xx_hal_tim_ex.crf" beforeDir="false" afterPath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/stm32f1xx_hal_tim_ex.crf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/stm32f1xx_hal_tim_ex.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/stm32f1xx_hal_tim_ex.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/stm32f1xx_hal_uart.crf" beforeDir="false" afterPath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/stm32f1xx_hal_uart.crf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/stm32f1xx_hal_uart.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/stm32f1xx_hal_uart.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/stm32f1xx_hal_usart.crf" beforeDir="false" afterPath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/stm32f1xx_hal_usart.crf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/stm32f1xx_hal_usart.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/stm32f1xx_hal_usart.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/stm32f1xx_it.crf" beforeDir="false" afterPath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/stm32f1xx_it.crf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/stm32f1xx_it.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/stm32f1xx_it.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/system_stm32f1xx.crf" beforeDir="false" afterPath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/system_stm32f1xx.crf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/system_stm32f1xx.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/Version_V1/system_stm32f1xx.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/startup_stm32f103xe.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../../STM32/STM32F103RCT6/Software_Version/Version_V1/MDK-ARM/startup_stm32f103xe.lst" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Lw4zUFw53JsMfDoXr4xzFVWo80" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Personal Project/personal_project/Python_Project/Electronic_Cigarette_Data_Model_V1.3&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Python.FGS_Data_Dispose">
+    <configuration name="DataBase" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Electronic_Cigarette_Data_Model_V1.1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataBase.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Data_Dispose" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Electronic_Cigarette_Data_Model_V1.1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data_Dispose.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="FGS_Data_Dispose" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Electronic_Cigarette_Data_Model_V1.1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FGS_Data_Dispose.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Smoke_Data" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Electronic_Cigarette_Data_Model_V1.1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Smoke_Data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Electronic_Cigarette_Data_Model_V1.1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.FGS_Data_Dispose" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.Data_Dispose" />
+        <item itemvalue="Python.DataBase" />
+        <item itemvalue="Python.Smoke_Data" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="01f4e246-79d3-495c-aa48-82119e533159" name="变更" comment="" />
+      <created>1676769073914</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676769073914</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Table_Drawing.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
