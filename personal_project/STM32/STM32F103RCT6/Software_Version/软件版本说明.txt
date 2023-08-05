@@ -1,0 +1,3 @@
+软件版本：Version_V1
+说明：
+1.开启UART、Timer、PWM功能，并通过printf打印相关信息

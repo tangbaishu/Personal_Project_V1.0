@@ -1,0 +1,24 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "d:/Personal Project/personal_project/Grammar_Practice/Qt/Exercise/exercise",
+      "program": "d:/Personal Project/personal_project/Grammar_Practice/Qt/Exercise/exercise/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "D:/MinGW/bin/gdb.exe",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
